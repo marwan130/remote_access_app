@@ -1,0 +1,8 @@
+pyautogui
+opencv-python
+pillow
+pytest
+python-dotenv
+mss
+numpy
+cryptography
